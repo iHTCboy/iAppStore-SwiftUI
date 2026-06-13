@@ -20,7 +20,9 @@ iAppStore 是一款使用 SwiftUI 打造的苹果商店工具类 App。
 - macOS 11.0+（Mac Apple Silicon M1/M2+）
 
 
-TestFlight 下载地址：[https://testflight.apple.com/join/XXEQdVKN](https://testflight.apple.com/join/XXEQdVKN)
+~~TestFlight 下载地址：[https://testflight.apple.com/join/XXEQdVKN](https://testflight.apple.com/join/XXEQdVKN)~~
+
+[在 App Store 下载](https://apps.apple.com/app/id6446581591)
 
 > 注：
 > 1. TestFlight 名额有限，先下先得！
