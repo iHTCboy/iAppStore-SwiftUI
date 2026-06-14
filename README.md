@@ -11,6 +11,19 @@ iAppStore 是一款使用 SwiftUI 打造的苹果商店工具类 App。
 
 > 本项目的发起原由：[用 SwiftUI 实现一个开源的 App Store - 掘金](https://juejin.cn/post/7051512478630412301)
 
+
+## 项目说明
+
+本项目不在维护，现已上架 App Store，可以下载：
+
+- [在 App Store 下载](https://apps.apple.com/app/id6446581591)
+
+
+This project is not under maintenance. Now it is on the App Store. You can download it:
+
+- [Download on the App Store](https://apps.apple.com/app/id6446581591)
+
+
 ## 2. 安装说明
 
 ### 2.1 iOS / iPadOS / Mac Apple Silicon
@@ -20,9 +33,7 @@ iAppStore 是一款使用 SwiftUI 打造的苹果商店工具类 App。
 - macOS 11.0+（Mac Apple Silicon M1/M2+）
 
 
-~~TestFlight 下载地址：[https://testflight.apple.com/join/XXEQdVKN](https://testflight.apple.com/join/XXEQdVKN)~~
-
-[在 App Store 下载](https://apps.apple.com/app/id6446581591)
+TestFlight 下载地址：[https://testflight.apple.com/join/XXEQdVKN](https://testflight.apple.com/join/XXEQdVKN)
 
 > 注：
 > 1. TestFlight 名额有限，先下先得！
